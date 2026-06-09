@@ -6,7 +6,7 @@ How it works
 
 2. The event includes:
    - Customer email
-   - Username (mapped to `first_name`)
+   - Username (mapped to first_name)
    - Product ID
    - Product Name
    - Category
@@ -59,7 +59,7 @@ Viewed Product event triggered successfully from the website
 
 Product details passed to Klaviyo
 
-Username mapped to `first_name`
+Username mapped to first_name
 
 Product recommendation logic implemented
 
